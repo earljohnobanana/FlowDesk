@@ -3,6 +3,7 @@
 FlowDesk is a modern, elegant, and interactive web-based project management dashboard. It helps users manage projects, track subtasks, assign team members, and monitor project progress—all with smooth animations and a sleek UI.
 
 🚀 Features
+
 📊 Dashboard
 Overview of all projects and notifications.
 Interactive project cards that open detailed modals.
