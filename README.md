@@ -6,24 +6,31 @@ FlowDesk is a modern, elegant, and interactive web-based project management dash
 📊 Dashboard
 Overview of all projects and notifications.
 Interactive project cards that open detailed modals.
+
 📁 Projects
 Add, edit, delete projects.
 Track deadlines and project status (Ongoing, Done, Cancelled).
 Manage subtasks, comments, and team members directly in modals.
+
 📈 Analytics
 Real-time statistics: total projects, completed, ongoing, and overdue.
+
 👥 Team Management
 Add, edit, and remove team members.
 Display members elegantly with their roles.
+
 🎨 Modern Design
 Dark theme with glassmorphic cards.
 Smooth hover and click animations.
 Responsive layout with intuitive UX.
+
 💾 Local Storage
 Persistent project and team data saved in the browser.
+
 🎬 Demo
 
 Open index.html in any modern browser to see FlowDesk in action.
+
 
 
 
